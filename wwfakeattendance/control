@@ -1,0 +1,9 @@
+Package: con.kinken.wwfakeattendance
+Name: WWFakeAttendance
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: kinken
+Author: kinken
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
